@@ -11,7 +11,6 @@ const Header = () => {
                 <li>Women</li>
                 <li>Men</li>
                 <li>Kids</li>
-                <li>Beauty</li>
             </ul>
         </div>
         <div className='srch'>
